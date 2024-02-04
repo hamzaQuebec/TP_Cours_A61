@@ -15,10 +15,10 @@ NAME = 'regression_model'
 # EMAIL = 'your_email@email.com'
 # AUTHOR = 'Your name'
 DESCRIPTION = 'Former et deployer un modele de regression.'
-URL = 'https://github.com/cegep2020/cours-A61.git'
-EMAIL = 'aamami@csfoy.ca'
-AUTHOR = 'Cegep AA'
-REQUIRES_PYTHON = '>=3.6.0'
+URL = 'https://github.com/hamzaQuebec/TP_Cours_A61.git'
+EMAIL = '2194605@csfoy.ca'
+AUTHOR = 'Hamza BADR'
+REQUIRES_PYTHON = '>=3.11'
 
 
 # What packages are required for this module to be executed?

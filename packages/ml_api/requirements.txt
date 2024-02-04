@@ -1,0 +1,6 @@
+# api
+flask
+
+# local regression_model package
+# update with your local path
+-e "C:\Users\DATABASE\Desktop\TP_Cours_A61\packages\regression_model"
