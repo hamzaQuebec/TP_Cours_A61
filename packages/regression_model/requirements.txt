@@ -10,3 +10,7 @@ joblib
 
 # testing requirements
 pytest
+
+# packaging
+setuptools
+wheel
